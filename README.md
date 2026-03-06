@@ -8,3 +8,4 @@ La página de vida joven ofrece diferentes secciones que estan pensadas para el 
 
 # Música
 En este apartado puedes encontrar diferentes cantantes y información sobre ellos, también puedes ver el genero de cada uno
+[](https://github.com/GABRIELL410/Practica-Tema-3-Vida-Joven/blob/main/Captura%20de%20pantalla%202026-03-06%20153147.png)
