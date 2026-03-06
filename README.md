@@ -7,5 +7,14 @@ El objetivo del proyecto es crear una web sencilla, estética y fácil de usar p
 La página de vida joven ofrece diferentes secciones que estan pensadas para el entretenimiento y los intereses de los jóvenes. Cada apartado tiene un tema distinto
 
 # Música
-En este apartado puedes encontrar diferentes cantantes y información sobre ellos, también puedes ver el genero de cada uno
+En este apartado puedes encontrar diferentes cantantes y información sobre ellos, también puedes ver el genero de cada uno de estos artistas y disfrutar de cada uno de ellos.
+
+
 ![](https://github.com/GABRIELL410/Practica-Tema-3-Vida-Joven/blob/main/Captura%20de%20pantalla%202026-03-06%20153147.png)
+
+# Videojuegos
+En esta sección puedes buscar información sobre tecnologia, peró mayormente sobre el apartado de videojuegos, encontraras los mejores videojuegos del año, juegos gratis que puedes descargarte y disfrutarlo y te puede ayudar a decidir entre comprarte un PC o una consola.
+
+
+![](https://github.com/GABRIELL410/Practica-Tema-3-Vida-Joven/blob/main/Captura%20de%20pantalla%202026-03-06%20153921.png)
+
